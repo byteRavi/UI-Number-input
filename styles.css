@@ -1,0 +1,9 @@
+body {
+    font-family: Garamond, serif;
+    margin: 20px;
+}
+
+.message {
+    margin-top: 10px;
+    color: Green; /*default color*/
+}
