@@ -1,4 +1,4 @@
-# Number Input UI
+## Number Input UI
 
 >>This project is a simple and interactive web-based user interface designed to handle numeric inputs. It dynamically displays the next three even or odd numbers based on the user input, with the text color green for all inputs. The goal of this project is to provide a clean and functional example of handling user input and dynamically updating the UI using HTML, CSS, and JavaScript.
 
@@ -14,7 +14,7 @@
 
 ## Here i will give you the project structure
 >> number-input-ui
-- **Index.html**:        # Main HTML file
-- **styles.css**:        # CSS for styling
-- **script.js**:         # JavaScript for interactivity
-- **README.md**:         # Project documentation
+- **Index.html**:  Main HTML file
+- **styles.css**:  CSS for styling
+- **script.js** :  JavaScript for interactivity
+- **README.md** :  Project documentation
